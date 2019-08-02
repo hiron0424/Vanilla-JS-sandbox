@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+#result {
+  padding: 30px;
+  margin: 10px auto;
+  border: 1px solid #000000;
+}
+.button {
+  display: inline-block;
+  width: 200px;
+  padding: 20px;
+  border-radius: 4px;
+  background-color: #afa58d;
+  color: #fff;
+  text-decoration: none;
+  letter-spacing: 1px;
+  font-size: 1.2rem;
+}
+.button:hover {
+  opacity: 0.9;
+}
